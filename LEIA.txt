@@ -1,0 +1,8 @@
+O arquivo partida.txt sera criado automaticamente quando voce escolher
+“Salvar jogo” durante uma partida.
+
+Para carregar, abra o jogo a partir da pasta principal do projeto e escolha
+“Continuar jogo salvo” no menu inicial.
+
+O formato de salvamento atual e QUIBUNGO_SAVE_4. Partidas salvas em versoes
+anteriores nao sao compativeis.
